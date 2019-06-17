@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  SwiftStart
+//  MUDAMUDA
 //
-//  Created by 末廣拓也 on 2019/06/05.
+//  Created by 末廣拓也 on 2019/06/08.
 //  Copyright © 2019 Suetak. All rights reserved.
 //
 
